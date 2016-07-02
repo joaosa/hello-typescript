@@ -1,0 +1,17 @@
+{
+  "name": "hello-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "prepublish": "npm run build"
+  },
+  "author": "Joao Andrade <jjadonotenter@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^1.8.10"
+  }
+}
