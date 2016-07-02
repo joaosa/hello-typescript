@@ -1,6 +1,6 @@
 {
   "name": "hello-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "repository": "github:joaosa/hello-typescript",
   "main": "dist/index.js",
